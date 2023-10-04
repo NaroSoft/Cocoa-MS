@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787366444797",
+    "project_id": "cocoa-system",
+    "storage_bucket": "cocoa-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787366444797:android:d095320c8dc25eaab9c894",
+        "android_client_info": {
+          "package_name": "com.ota.cocoa_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787366444797-nou5ti034kic2176h1ft2ucihomn3uap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ota.cocoa_system",
+            "certificate_hash": "337e6387e5c199132892b40b1d941d71af2d3fe4"
+          }
+        },
+        {
+          "client_id": "787366444797-okcd741ghqonksusmf7coqsch2f12asd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCazPCSOJu_KI1BQgvM3ach5SYVVpiYNdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787366444797-okcd741ghqonksusmf7coqsch2f12asd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
